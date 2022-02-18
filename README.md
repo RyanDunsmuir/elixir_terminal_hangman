@@ -1,6 +1,10 @@
-# Happy
+# Elixir Hangman Game
 
-**TODO: Add description**
+Hangman terminal game coded in Elixir.
+
+To run the game, open the project and type `iex -S mix` to run the application console.
+
+Then simply run the command `Router.run()`.
 
 ## Installation
 
